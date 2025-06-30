@@ -23,6 +23,4 @@ Axios – For API requests
 
 Weather API – (e.g., OpenWeatherMap API)
 
-📸 Screenshots
-
 
